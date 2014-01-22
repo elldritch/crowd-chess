@@ -1,0 +1,4 @@
+crowd-chess
+===========
+
+Crowdsourced chess.
